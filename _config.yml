@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: dark
 
 plugins:
@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -25,8 +25,8 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
-     - cip_final_project
+    # projects:
+    # - cip_final_project
 
 social_media:
   # behance: your_username
