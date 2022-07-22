@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Narayan Soni",
+    "label": "Student",
+    "picture": "https://user-images.githubusercontent.com/77617189/180409769-efed49cb-564d-4797-9bb1-a38e18ef072d.png",
+    "email": "narayansoni954@gmail.com",
+    "phone": "+919799085158",
+    "website": "https://narayansoni.netlify.app/",
+    "summary": "I am studying for a B.Tech in Computer Science and Engineering at the Abdul Kalam Technical University. I expect to graduate in Spring, 2024.",
+    "location": { "address": "Katra Abdul Gani", "postalCode": "212601", "city": "Fatehpur", "countryCode": "IND"},
+    "profiles": [
+      { "network": "github", "username": "narayan954", "url": "http://github.com/narayan954" },
+      { "network": "linkedin", "username": "narayan-soni", "url": "http://linkedin.com/in/narayan-soni" },
+      { "network": "twitter", "username": "narayan954", "url": "http://twitter.com/narayan854" },
+      { "network": "instagram", "username": "narayansoni_", "url": "http://instagram.com/narayansoni_" }
+    ]
+  },
+  "interests": [
+    { "name": "Web Development" },
+    { "name": "Machine Learning" },
+    { "name": "Cloud Computing" },
+    { "name": "Robotics" },
+    { "name": "Cybersecurity" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "C++", "Java", "Javascript", "Assembly" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS", "Ubuntu", "Git/GitHub", "g++", "Linux" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Noida Institute of Engineering and Technology",
+      "area": "Computer Science and Engineering (expected Spring, 2024)",
+      "studyType": "B.Tech.",
+      "startDate": "2020-11-24",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Chegg India Pvt Ltd",
+      "position": "Subject Matter Expert",
+      "website": "https://www.cheggindia.com/",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-01",
+      "summary": "Computer Science Subject Matter Expert on Chegg",
+      "highlights": [
+        "Solved problems related to DS,Algo,DBMS,OS and other Computer Science subjects for college students",
+        "100 plus correct answers with 91% up votes"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "engineerHUB",
+      "website": "https://www.engineerhub.in/",
+      "position": "Mentor",
+      "startDate": "2021-08-11",
+      "endDate": "2022-03-10",
+      "summary": "Senior Mentor in Machine Learning",
+      "highlights": [
+        "Vounteered as a Senior Mentor for Python and Machine Learning",
+        "Mentored a batch of 500 plus students from various colleges across India",
+        "Organized doubt and orientation session with 100 plus freshers and cleared their doubts"
+      ]
+    },
+    {
+      "organization": "Google Developer Students Club",
+      "website": "https://dsc-niet.github.io/web/",
+      "position": "Core Team Member",
+      "startDate": "2021-09-18",
+      "endDate": "2022-03-01",
+      "summary": "Web Developer in Core Team",
+      "highlights": [
+        "Web Developer in Core team at NIET",
+        "Collaborated in development of front-end of GDSC Website",
+        "Analyzed various GDSC events from NIET as well as others"
+        
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Machine Learning Scholarship",
+      "date": "2021",
+      "awarder": "Udacity and AWS",
+      "summary": "Scholarships awarded to students to boost their career in Machine Learning through AWS"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
